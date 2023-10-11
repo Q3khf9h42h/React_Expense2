@@ -16,7 +16,7 @@ render(){
         <input type="text" 
         className="regField"
         placeholder="Your Name"
-        name="email"/>
+        name="name"/>
          
          <input type="text" 
         className="regField"
@@ -39,5 +39,5 @@ render(){
     );
 }
 }
-export default Login;
+export default Register;
  
